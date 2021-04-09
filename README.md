@@ -1,6 +1,6 @@
 # AWS ECS, Fargate Workshop
 
-### DemoGo - Cats and Dogs
+## DemoGo - Cats and Dogs
 
 ## Searching for Love and Happiness
 
